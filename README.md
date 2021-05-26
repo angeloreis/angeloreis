@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on boilerplate to new aplications
 - 🌱 I’m currently learning react advanced - best pratices unit test e E2E
-- :heart: Married, 2 beatiful kids and Develop at kumulus
+- :heart: Married, 2 beatifuls kids and Develop at kumulus
 - :books: Stack and Frameworks favorite
   * :heavy_check_mark: ReactJS (TypeScript)
   * :heavy_check_mark: NextJS
