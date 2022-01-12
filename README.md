@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on boilerplate to new aplications
-- 🌱 I’m currently learning react advanced - best pratices unit test e E2E
-- :heart: Married, father of two beautiful children and Develop at kumulus
-- :books: Stack and Frameworks favorite
+- 🌱 I’m currently learning react query, unit test and E2E
+- :heart: Married, father of two beautiful children and Software Develop at Sortium
+- :books: Stack favorite
   * :heavy_check_mark: ReactJS (TypeScript)
   * :heavy_check_mark: NextJS
   * :heavy_check_mark: Jest, Cypress,
