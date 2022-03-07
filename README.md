@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on boilerplate to new aplications
 - 🌱 I’m currently learning react query, unit test and E2E
-- :heart: Married, father of two beautiful children and Software Develop at Sortium
+- :heart: Married, father of two beautiful children and SDE at Sortium
 - :books: Stack favorite
   * :heavy_check_mark: ReactJS (TypeScript)
   * :heavy_check_mark: NextJS
