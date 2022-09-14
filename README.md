@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on boilerplate to new aplications
 - 🌱 I’m currently learning react query, unit test and E2E
-- :heart: Married, father of two beautiful childrens
+- :heart: Married, father of two beautiful kids
 - Open to Work
 - :books: Stack favorite
   * :heavy_check_mark: ReactJS (TypeScript)
