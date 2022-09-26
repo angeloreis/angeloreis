@@ -9,6 +9,6 @@
   * :heavy_check_mark: NextJS
   * :heavy_check_mark: Jest, Cypress,
   * :heavy_check_mark: Chakra-UI :heart: / Styled-components
-  * :heavy_check_mark: Husky and lint-Staged
+  * :heavy_check_mark: Husky
 -  :heart: Açai é com farinha, camarão e peixe frito :bangbang::bangbang::bangbang:
 
